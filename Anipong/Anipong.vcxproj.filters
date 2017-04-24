@@ -1,0 +1,244 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="resource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Icon.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GameFrame.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GameStart.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Anipong.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Bitmap.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Common.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RefreshScreen.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ScoreBd.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Timer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Mouse.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GameEnd.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Anipong.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="..\image\ani_01.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\image\ani_01B.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\image\ani_02.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\image\ani_02B.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\image\ani_03.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\image\ani_03B.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\image\ani_04.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\image\ani_04B.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\image\ani_05.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\image\ani_05B.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\image\ani_06.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\image\ani_06B.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\image\ani_07.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\image\ani_07B.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\image\ani_08.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\image\ani_08B.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\image\anipongFrame.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\image\pong.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\image\gameStart.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\image\gameEmd.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\image\eButton.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\image\rButton.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\image\sButton.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="image\sec.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="image\ani_01.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="image\ani_01B.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="image\ani_02.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="image\ani_02B.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="image\ani_03.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="image\ani_03B.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="image\ani_04.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="image\ani_04B.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="image\ani_05.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="image\ani_05B.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="image\ani_06.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="image\ani_06B.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="image\ani_07.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="image\ani_07B.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="image\ani_08.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="image\ani_08B.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="image\pong.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="image\ani_empty.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="image\gameStart.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="image\gameEnd.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="image\eButton.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="image\rButton.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="image\sButton.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="image\anipongFrame.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="image\secB.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Icon.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GameFrame.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GameStart.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Anipong.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Bitmap.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="RefreshScreen.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ScoreBd.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Timer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Mouse.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GameEnd.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
