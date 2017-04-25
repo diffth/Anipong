@@ -1,3 +1,4 @@
 # Anipong
 
-![](https://github.com/diffth/Anipong/tree/master/Anipong/image/01.jpg)
+![](https://github.com/diffth/Anipong/blob/master/Anipong/image/01.png)
+![](https://github.com/diffth/Anipong/tree/master/Anipong/image/02.png)
