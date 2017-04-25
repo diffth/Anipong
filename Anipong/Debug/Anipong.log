@@ -1,16 +1,3 @@
 ﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Anipong_V0.3.vcxproj).  This can lead to incorrect clean and rebuild behavior.
-  main.cpp
-  RefreshScreen.cpp
-  GameEnd.cpp
-  Anipong.cpp
-  Generating Code...
-  Compiling...
-  Timer.cpp
-  ScoreBd.cpp
-  Icon.cpp
-  GameStart.cpp
-  GameFrame.cpp
-  Bitmap.cpp
-  Generating Code...
   Anipong.vcxproj -> C:\WinShare\C++\Lecture\Anipong\Debug\Anipong.exe
   Anipong.vcxproj -> C:\WinShare\C++\Lecture\Anipong\Debug\Anipong.pdb (Full PDB)
